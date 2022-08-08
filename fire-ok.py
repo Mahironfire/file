@@ -298,7 +298,7 @@ def name2():
 					pwv.append(frs+'123')
 					pwv.append(frs+'12345')
 					pwv.append(frs+'1234')
-					pwv.append(frs+'1)
+					pwv.append(frs+'1')
 					pwv.append(frs+'12')
 					pwv.append(frs+'11')
 					pwv.append(frs+'1122')
